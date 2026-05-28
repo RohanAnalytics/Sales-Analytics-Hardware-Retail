@@ -1,6 +1,5 @@
 # Sales_Insights on Atliq Hardware
 #codebasics.io
-#Guided Projects 
 ## Problem statement:
 The case study is based on a computer hardware and peripheral manufacturer business That faces challenges in a dynamically changing market. The sales Director would like to build a PowerBi dashboard that can provide real-time sales insights.
 ### Purpose:
